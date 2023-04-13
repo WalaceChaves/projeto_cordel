@@ -68,6 +68,7 @@ section {
 
 section>p {
     padding-bottom: 2em;
+    padding-top: 20px;
 }
 
 section.normal {
